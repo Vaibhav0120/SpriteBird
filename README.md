@@ -12,7 +12,7 @@
 * Procedurally spawning obstacles
 * Score tracking system
 * Game over and restart flow
-* Mobile and PC compatible
+* PC compatible
 
 <h1 align="center">🚀 Getting Started</h1>
 
