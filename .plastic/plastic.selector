@@ -1,0 +1,4 @@
+repository "SpriteBird/SpriteBird@13469781765450@cloud"
+  path "/"
+    br "/main"
+    co "/main"
