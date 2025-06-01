@@ -5,7 +5,7 @@
 </h4>
 
 
-<h2 align="center">🎮 Features</h2>
+<h1 align="center">🎮 Features</h1>
 
 * Classic Flappy Bird gameplay
 * Smooth tap-to-fly controls
@@ -14,7 +14,7 @@
 * Game over and restart flow
 * Mobile and PC compatible
 
-<h2 align="center">🚀 Getting Started</h2>
+<h1 align="center">🚀 Getting Started</h1>
 
 ### Prerequisites
 
@@ -28,21 +28,21 @@
 3. Press **Play** in the Unity editor or build for your desired platform.
 4. Tap or click to keep the bird flying and avoid the pipes!
 
-<h2 align="center">📸 Screenshots</h2>
+<h1 align="center">📸 Screenshots</h1>
 
 
 ![Gameplay Screenshot](Assets/Screenshots/screenshot1.png)
 ![Game Over Screen](Assets/Screenshots/screenshot2.png)
 
 
-<h2 align="center">🎥 Demo Video</h2>
+<h1 align="center">🎥 Demo Video</h1>
 
 
 [![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
 
 
-<h2 align="center">📂 Project Structure</h2>
+<h1 align="center">📂 Project Structure</h1>
 
 ```
 SpritBird/
@@ -58,6 +58,8 @@ SpritBird/
 ```
 
 
-<h2 align="center">🙌 Contributing</h2>
+<h1 align="center">🙌 Contributing</h1>
 
+<h3 align="center">
 This project is a simple personal learning project, but feel free to fork and build upon it!
+</h3>
