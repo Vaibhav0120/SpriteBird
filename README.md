@@ -35,17 +35,15 @@
 
 <h1 align="center">📸 Screenshots</h1>
 
-<img src="https://github.com/user-attachments/assets/27d9e428-69c5-4700-9ca6-5ab587ae4a1c" alt="Unity" width="70%">
+<div align="center">
 
-<br>
+  <img src="https://github.com/user-attachments/assets/27d9e428-69c5-4700-9ca6-5ab587ae4a1c" alt="Unity" width="70%">
+  <br><br>
+  <img src="https://github.com/user-attachments/assets/92122418-b560-4f97-8239-56fef796bee6" alt="Unity" width="70%">
+  <br><br>
+  <img src="https://github.com/user-attachments/assets/e5678701-8964-4e51-87ad-15b1a0680e6e" alt="Unity" width="70%">
 
-<img src="https://github.com/user-attachments/assets/92122418-b560-4f97-8239-56fef796bee6" alt="Unity" width="70%">
-
-<br>
-
-<img src="https://github.com/user-attachments/assets/e5678701-8964-4e51-87ad-15b1a0680e6e" alt="Unity" width="70%">
-
-<br>
+</div>
 
 <h1 align="center">🎥 Demo Video</h1>
 
