@@ -1,12 +1,12 @@
 <h1 align="center">🐦 SpritBird</h1>
 
-<h3 align="center">
+<h4 align="center">
 <b>SpritBird</b> is a simple and addictive <b>Flappy Bird-style game</b> developed using <b>Unity</b>. Guide the little bird through a series of pipes by tapping or clicking to keep it airborne. Built as a fun side project to explore 2D game mechanics, physics, and Unity game development principles.
-</h3>
+</h4>
 
 ---
 
-## 🎮 Features
+<h3 align="center">🎮 Features</h3>
 
 * Classic Flappy Bird gameplay
 * Smooth tap-to-fly controls
@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 Getting Started
+<h3 align="center">🚀 Getting Started</h3>
 
 ### Prerequisites
 
@@ -33,7 +33,7 @@
 
 ---
 
-## 📸 Screenshots
+<h3 align="center">📸 Screenshots</h3>
 
 
 ![Gameplay Screenshot](Assets/Screenshots/screenshot1.png)
@@ -41,7 +41,7 @@
 
 ---
 
-## 🎥 Demo Video
+<h3 align="center">🎥 Demo Video</h3>
 
 
 [![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
@@ -49,7 +49,7 @@
 
 ---
 
-## 📂 Project Structure
+<h3 align="center">📂 Project Structure</h3>
 
 ```
 SpritBird/
@@ -66,6 +66,6 @@ SpritBird/
 
 ---
 
-## 🙌 Contributing
+<h3 align="center">🙌 Contributing</h3>
 
 This project is a simple personal learning project, but feel free to fork and build upon it!
