@@ -6,7 +6,7 @@
 
 ---
 
-<h3 align="center">🎮 Features</h3>
+<h2 align="center">🎮 Features</h2>
 
 * Classic Flappy Bird gameplay
 * Smooth tap-to-fly controls
@@ -17,7 +17,7 @@
 
 ---
 
-<h3 align="center">🚀 Getting Started</h3>
+<h2 align="center">🚀 Getting Started</h2>
 
 ### Prerequisites
 
@@ -33,7 +33,7 @@
 
 ---
 
-<h3 align="center">📸 Screenshots</h3>
+<h2 align="center">📸 Screenshots</h2>
 
 
 ![Gameplay Screenshot](Assets/Screenshots/screenshot1.png)
@@ -41,7 +41,7 @@
 
 ---
 
-<h3 align="center">🎥 Demo Video</h3>
+<h2 align="center">🎥 Demo Video</h2>
 
 
 [![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
@@ -49,7 +49,7 @@
 
 ---
 
-<h3 align="center">📂 Project Structure</h3>
+<h2 align="center">📂 Project Structure</h2>
 
 ```
 SpritBird/
@@ -66,6 +66,6 @@ SpritBird/
 
 ---
 
-<h3 align="center">🙌 Contributing</h3>
+<h2 align="center">🙌 Contributing</h2>
 
 This project is a simple personal learning project, but feel free to fork and build upon it!
