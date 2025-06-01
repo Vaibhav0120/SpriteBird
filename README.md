@@ -48,7 +48,10 @@
 <h1 align="center">🎥 Demo Video</h1>
 
 
-[![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+## 🎥 Demo Video
+
+[▶️ Watch Gameplay Demo](./Screenshots/vid.mp4)
+
 
 <br>
 
