@@ -4,17 +4,20 @@
 <b>SpritBird</b> is a simple and addictive <b>Flappy Bird-style game</b> developed using <b>Unity</b>. Guide the little bird through a series of pipes by tapping or clicking to keep it airborne. Built as a fun side project to explore 2D game mechanics, physics, and Unity game development principles.
 </h4>
 
+<br>
 
-<h2 align="center">🎮 Features</h2>
+<h1 align="center">🎮 Features</h1>
 
 * Classic Flappy Bird gameplay
 * Smooth tap-to-fly controls
 * Procedurally spawning obstacles
 * Score tracking system
 * Game over and restart flow
-* Mobile and PC compatible
+* PC compatible
 
-<h2 align="center">🚀 Getting Started</h2>
+<br>
+
+<h1 align="center">🚀 Getting Started</h1>
 
 ### Prerequisites
 
@@ -28,21 +31,28 @@
 3. Press **Play** in the Unity editor or build for your desired platform.
 4. Tap or click to keep the bird flying and avoid the pipes!
 
-<h2 align="center">📸 Screenshots</h2>
+<br>
 
+<h1 align="center">📸 Screenshots</h1>
 
-![Gameplay Screenshot](Assets/Screenshots/screenshot1.png)
-![Game Over Screen](Assets/Screenshots/screenshot2.png)
+<div align="center">
 
+  <img src="https://github.com/user-attachments/assets/27d9e428-69c5-4700-9ca6-5ab587ae4a1c" alt="Unity" width="70%">
+  <br><br>
+  <img src="https://github.com/user-attachments/assets/92122418-b560-4f97-8239-56fef796bee6" alt="Unity" width="70%">
+  <br><br>
+  <img src="https://github.com/user-attachments/assets/e5678701-8964-4e51-87ad-15b1a0680e6e" alt="Unity" width="70%">
 
-<h2 align="center">🎥 Demo Video</h2>
+</div>
+
+<h1 align="center">🎥 Demo Video</h1>
 
 
 [![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
+<br>
 
-
-<h2 align="center">📂 Project Structure</h2>
+<h1 align="center">📂 Project Structure</h1>
 
 ```
 SpritBird/
@@ -58,6 +68,8 @@ SpritBird/
 ```
 
 
-<h2 align="center">🙌 Contributing</h2>
+<h1 align="center">🙌 Contributing</h1>
 
+<h3 align="center">
 This project is a simple personal learning project, but feel free to fork and build upon it!
+</h3>
